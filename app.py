@@ -24,7 +24,7 @@ def scrape():
     return 'Scraping complete. Check the website_content.txt file.'
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
     
 
 
